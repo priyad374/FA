@@ -1,9 +1,0 @@
-{
-  "name": "full-adder",
-  "version": "1.0.0",
-  "description": "A simple full-adder module",
-  "dependencies": [
-  ],
-  "author": "Tanishq Dubey",
-  "license": "MIT"
-}

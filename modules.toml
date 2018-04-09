@@ -1,0 +1,12 @@
+[package]
+name = "full-adder"
+version = "1.0.0"
+description = "A simple full-adder module"
+license = "MIT"
+author = "Tanishq Dubey"
+
+[repository]
+type = "git"
+url = "https://github.com/narendasan/full_adder"
+
+[dependencies]
