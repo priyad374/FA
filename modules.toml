@@ -1,0 +1,12 @@
+[package]
+name = 'full_adder'
+version = '0.1.0'
+description = 'A full adder'
+author = 'Naren Dasan'
+license = 'NCSA'
+
+[repository]
+url = 'https://github.com/narendasan/full_adder'
+version_control = 'git'
+
+[dependencies]
