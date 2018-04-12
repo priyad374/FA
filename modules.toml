@@ -6,7 +6,7 @@ author = 'Naren Dasan'
 license = 'NCSA'
 
 [repository]
-url = 'https://github.com/narendasan/full_adder'
+url = 'https://github.com/veritas-verilog/full_adder'
 version_control = 'git'
 
 [dependencies]
